@@ -1,3 +1,4 @@
 alias lg="lazygit"
+alias gw="cd ~/genweb"
 
 export PS1="\[\033[1;36m\]\W\[\033[0m\] \$ "
